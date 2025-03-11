@@ -1,0 +1,7 @@
+PyPDF2
+scikit-learn
+streamlit
+pdfplumber
+transformers
+rank_bm25
+torch
